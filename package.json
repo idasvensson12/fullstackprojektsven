@@ -1,0 +1,26 @@
+{
+  "name": "fullstackprojektsven",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idasvensson12/fullstackprojektsven.git"
+  },
+  "keywords": [],
+  "author": "Ida Svensson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/idasvensson12/fullstackprojektsven/issues"
+  },
+  "homepage": "https://github.com/idasvensson12/fullstackprojektsven#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "expresse": "^1.0.2",
+    "mongoose": "^5.12.12",
+    "nodemon": "^2.0.7"
+  }
+}
